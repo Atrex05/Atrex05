@@ -13,7 +13,7 @@
 <br>
 
 Hi, I'm Atrex a software developer 👨🏻‍💻 from France. I'm currently studying at Epitech as a 2nd year college student.
-I'm passionate about problem-solving and creating innovative solutions. That's why I enjoy participate to hackathon to meet others and learn a lot. I'm also fervent about traveling ✈️.
+I'm passionate about problem-solving and creating innovative solutions. That's why I enjoy participatng in hackathons to meet others and learn a lot. I'm also enthusiastic about traveling ✈️.
 
 <br>
 
