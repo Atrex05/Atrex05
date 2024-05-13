@@ -44,11 +44,12 @@ I'm passionate about problem-solving and creating innovative solutions. That's w
 
 ---
 ### 📢 Find me elsewhere
+<!--
 <p align="left">
   <a href="https://leetcode.com/u/Atrex/">
     <img src="https://raw.githubusercontent.com/Atrex05/Atrex05/master/assets/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
+-->
   <a href="https://www.hackerrank.com/profile/alexis_mer">
     <img src="https://raw.githubusercontent.com/Atrex05/Atrex05/master/assets/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
