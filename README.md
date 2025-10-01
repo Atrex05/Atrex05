@@ -26,6 +26,7 @@ I'm passionate about problem-solving and creating innovative solutions. That's w
  
  </br>
 
+<!--
 **Languages and Tools:**
 <br>
 
@@ -43,7 +44,6 @@ I'm passionate about problem-solving and creating innovative solutions. That's w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 ---
-<!--
 ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://leetcode.com/u/Atrex/">
@@ -53,7 +53,6 @@ I'm passionate about problem-solving and creating innovative solutions. That's w
     <img src="https://raw.githubusercontent.com/Atrex05/Atrex05/master/assets/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
--->
 <hr>
 
 <details>
@@ -62,6 +61,7 @@ I'm passionate about problem-solving and creating innovative solutions. That's w
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Atrex05&show_icons=true&theme=gotham" alt="Atrex05" />
 
 </details>
+-->
 
 <!--
 <div align="center">
