@@ -12,7 +12,7 @@
 
 <br>
 
-Hi, I'm Atrex a software developer 👨🏻‍💻 from France. I'm currently studying at Epitech as a 2nd year college student.
+Hi, I'm Atrex a software developer 👨🏻‍💻 from France. I'm currently studying at Epitech and part as SIT International Programm in Japan.
 I'm passionate about problem-solving and creating innovative solutions. That's why I enjoy participatng in hackathons to meet others and learn a lot. I'm also enthusiastic about traveling ✈️.
 
 <br>
@@ -43,17 +43,17 @@ I'm passionate about problem-solving and creating innovative solutions. That's w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 ---
-### 📢 Find me elsewhere
 <!--
+### 📢 Find me elsewhere
 <p align="left">
   <a href="https://leetcode.com/u/Atrex/">
     <img src="https://raw.githubusercontent.com/Atrex05/Atrex05/master/assets/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
--->
   <a href="https://www.hackerrank.com/profile/alexis_mer">
     <img src="https://raw.githubusercontent.com/Atrex05/Atrex05/master/assets/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
+-->
 <hr>
 
 <details>
